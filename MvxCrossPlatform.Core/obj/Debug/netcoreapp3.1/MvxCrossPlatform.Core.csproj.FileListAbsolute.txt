@@ -1,0 +1,9 @@
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\bin\Debug\netcoreapp3.1\MvxCrossPlatform.Core.deps.json
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\bin\Debug\netcoreapp3.1\MvxCrossPlatform.Core.dll
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\obj\Debug\netcoreapp3.1\MvxCrossPlatform.Core.AssemblyInfoInputs.cache
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\obj\Debug\netcoreapp3.1\MvxCrossPlatform.Core.AssemblyInfo.cs
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\bin\Debug\netcoreapp3.1\MvxCrossPlatform.Core.pdb
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\obj\Debug\netcoreapp3.1\MvxCrossPlatform.Core.csproj.CoreCompileInputs.cache
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\obj\Debug\netcoreapp3.1\MvxCrossPlatform.Core.dll
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\obj\Debug\netcoreapp3.1\MvxCrossPlatform.Core.pdb
+E:\workbench\Project\.net\MvvmCross\MvxCrossPlatform\MvxCrossPlatform.Core\obj\Debug\netcoreapp3.1\MvxCrossPlatform.Core.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOiVg22U3cZbL8Hw7dYImELIdtasRCRfT1h5Q2EVTBc6fgzB3dVsHyiHC+eSSjg4tumUYQUB/mz59hTzBvwoUQ==",
+  "success": true,
+  "projectFilePath": "E:\\workbench\\Project\\.net\\MvvmCross\\MvxCrossPlatform\\MvxCrossPlatform\\MvxCrossPlatform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YMXD\\.nuget\\packages\\mvvmcross\\7.1.1\\mvvmcross.7.1.1.nupkg.sha512",
+    "C:\\Users\\YMXD\\.nuget\\packages\\mvvmcross.platforms.wpf\\7.1.1\\mvvmcross.platforms.wpf.7.1.1.nupkg.sha512",
+    "C:\\Users\\YMXD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
